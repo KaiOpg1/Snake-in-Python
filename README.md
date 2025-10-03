@@ -7,7 +7,7 @@ Ein einfaches Snake-Spiel in Python mit `pygame`.
 - Score-Anzeige
 - Game Over Screen
 
-## ▶️ Installation & Start
-1. Installiere pygame:
+## ▶️ Installation
 ```bash
 pip install pygame
+python Snake-Pygame.py
